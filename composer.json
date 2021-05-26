@@ -1,0 +1,10 @@
+{
+    "name": "vendor/main",
+    "authors": [
+        {
+            "name": "lenny-louis",
+            "email": "louislennyy@gmail.com"
+        }
+    ],
+    "require": {}
+}
